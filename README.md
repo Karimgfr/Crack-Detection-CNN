@@ -15,9 +15,8 @@ The trained model will be provided in **H5 format**, allowing for further deploy
 
 - **Deep Learning Model**: Implements a CNN for accurate binary classification of images.  
 - **End-to-End Workflow**: Covers data preprocessing, model training, evaluation, and visualization.  
-- **Explainable AI**: Visualizes convolutional filters, activation maps, and Grad-CAM heatmaps to interpret the model's predictions.  
 - **Performance Metrics**: Detailed evaluation using accuracy, precision, recall, F1-score, and confusion matrix.
-- **Theoretical Documentation**: A separate file explaining core concepts, methods, and rationale behind the design choices in the project.
+- **Theoretical Documentation**: A separate file explaining core concepts, methods, and rationale behind the design choices in the project. To-do ! 
 
 ## 🗂 Dataset
 
@@ -35,7 +34,8 @@ The dataset used for this project is **Surface Crack Detection**, available on K
 ### Dataset Source:
 You can access the dataset from Kaggle [here](https://www.kaggle.com/arunrk7/surface-crack-detection).  
 
-### Preprocessing Steps:
-- **Resizing**: Ensured all images are scaled to the required input size for the CNN.  
-- **Normalization**: Pixel values scaled to a range of [0, 1] to improve convergence during training.  
-- **Augmentation**: Techniques such as flipping, rotation, and contrast adjustments were applied to enhance diversity in the training data.
+## CNN architecture:
+
+
+
+
