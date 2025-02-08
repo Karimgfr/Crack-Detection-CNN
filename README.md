@@ -34,8 +34,8 @@ The dataset used for this project is **Surface Crack Detection**, available on K
 ### Dataset Source:
 You can access the dataset from Kaggle [here](https://www.kaggle.com/arunrk7/surface-crack-detection).  
 
-## CNN architecture:
+## 🌐 CNN Architecture:
 
+Below is the architecture of the Convolutional Neural Network (CNN) used in this project:
 
-
-
+![CNN Architecture](CNN_architecture.png)
